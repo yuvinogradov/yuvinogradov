@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Yury Vinogradov
+# Hi, my name is Yury Vinogradov
 
 ## I'm a passionate frontend developer with experience in creating apps with React and Redux.
 ## I'm keen on solving katas on [Codewars](https://www.codewars.com/users/vngrd). 
@@ -20,15 +20,15 @@
 
 
 ### ✉️ Mail me: yuvinogradov@gmail.com
-### 🌐 [LinkedIn: ](https://www.linkedin.com/in/viktoryiabakun/) Viktoryia Bakun
-
+### 🌐 [LinkedIn: ](https://www.linkedin.com/in/vngrd/) Yury Vinogradov
+<!---
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
+
 yuvinogradov/yuvinogradov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
