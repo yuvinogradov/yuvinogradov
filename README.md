@@ -4,7 +4,7 @@
 ## I'm keen on solving katas on [Codewars](https://www.codewars.com/users/vngrd). 
 ## In the future I want to learn backend and try myself as a fullstack developer.
 
-## 💼 [Portfolio](https://yuvinogradov.github.io/portfolio/)
+<!---## 💼 [Portfolio](https://yuvinogradov.github.io/portfolio/)
 <!---## 📋 [CV](https://github.com/viktoriabakun/viktoriabakun/blob/main/Viktoryia_Bakun_CV.pdf)
 --->
 
