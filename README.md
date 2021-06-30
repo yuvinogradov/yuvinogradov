@@ -20,7 +20,7 @@
 
 
 ### ✉️ Mail me: yuvinogradov@gmail.com
-### 🌐 [LinkedIn: ](https://www.linkedin.com/in/vngrd/) Yury Vinogradov
+### 🌐 LinkedIn: [Yury Vinogradov](https://www.linkedin.com/in/vngrd/)
 <!---
 
 - 👀 I’m interested in ...
