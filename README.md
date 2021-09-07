@@ -1,7 +1,7 @@
 # Hi, my name is Yury Vinogradov
 
 ## I'm a passionate frontend developer with experience in creating apps with React and Redux.
-## I'm keen on solving katas on [Codewars](https://www.codewars.com/users/vngrd). 
+## I'm keen on solving katas on [Codewars](https://www.codewars.com/users/yuvinogradov). 
 ## In the future I want to learn backend and try myself as a fullstack developer.
 
 <!---## 💼 [Portfolio](https://yuvinogradov.github.io/portfolio/)
