@@ -5,7 +5,7 @@
 ## In the future I want to learn backend and try myself as a fullstack developer.
 
 <!---## 💼 [Portfolio](https://yuvinogradov.github.io/portfolio/)
-<!---## 📋 [CV](https://github.com/viktoriabakun/viktoriabakun/blob/main/Viktoryia_Bakun_CV.pdf)
+<!---## 📋 [CV](https://github.com/yuvinogradov/yuvinogradov/blob/main/Yury_Vinogradov_CV.pdf)
 --->
 
 ### Main Skills
