@@ -21,6 +21,7 @@
 
 ### ✉️ Mail me: yuvinogradov@gmail.com
 ### 🌐 LinkedIn: [Yury Vinogradov](https://www.linkedin.com/in/vngrd/)
+### 📂 Portfolio: [Yury Vinogradov](https://www.yuryvinogradov.com)
 <!---
 
 - 👀 I’m interested in ...
